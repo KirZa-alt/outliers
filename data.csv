@@ -1,0 +1,8 @@
+Student_ID,Age,Gender,Math_Score,English_Score,Science_Score,Attendance (%),City
+101,16,Male,85,78,92,95,Karachi
+102,17,Female,90,88,89,90,Lahore
+103,,Male,76,,81,88,Karachi
+104,18,Female,58,60,55,65,Islamabad
+105,16,,95,99,,98,Lahore
+106,15,Male,50,48,45,60,Islamabad
+107,17,Female,72,76,75,80,Karachi
